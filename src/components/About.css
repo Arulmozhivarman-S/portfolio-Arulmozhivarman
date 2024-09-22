@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+}
+
+.About{
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    width: 100%;
+    margin: 100px auto;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.about-section{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    justify-content: space-between;
+    width: 100%;
+    text-align: left;
+}
+
+@media (max-width:600px){
+
+    .About{
+        display: flex;
+        flex-direction: column;
+    }
+    .about-section{
+        display: flex;
+        flex-direction: column;
+    }
+
+}

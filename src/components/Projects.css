@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    color: white;
+}
+.Projects{
+    width: 80%;
+    height: auto;
+    margin: 50 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.Projects-div{
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+}
+
+@media (max-width:600px){
+
+    .project-img{
+            width: 300px;
+    }
+    .Projects-div{
+        display: flex;
+        flex-direction: column;
+    }
+
+}
