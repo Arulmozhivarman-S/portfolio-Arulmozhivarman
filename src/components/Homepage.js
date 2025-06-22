@@ -18,11 +18,11 @@ function Homepage() {
         <div className='Main-div' >
                 <img data-aos="fade-up" data-aos-duration="1000" style={{width:'100px',height:'100px'}} src='https://cdn-icons-png.flaticon.com/256/5046/5046943.png'></img>
                
-                <h2 data-aos="fade-up" data-aos-duration="1500">Hi,I'am Arulmozhivarman S</h2>
-                <h1 data-aos="fade-up" data-aos-duration="2000">
-                <span style={{color:'#624E88'}}>Full Stack Web Developer</span> Crafting Dynamic,
-                 Scalable, and <br></br>User-Friendly Web Applications
-                </h1>
+                <h1 data-aos="fade-up" data-aos-duration="1500">Hi,I'am Arulmozhivarman S</h1>
+                <h2 data-aos="fade-up" data-aos-duration="2000">
+                <span style={{color:'#624E88'}}>Software Developer</span> Crafting Dynamic,
+                 Scalable, and <br></br>User-Friendly Web Applications and cool ML models
+                </h2>
                 <h3 data-aos="fade-up" data-aos-duration="2500">
                 Expertise in building modern web applications using technologies like JavaScript, React, Springboot, and MySql. I’m passionate about solving complex problems and delivering seamless user experiences.
                 </h3>
