@@ -30,7 +30,7 @@ function Homepage() {
                         <a href='https://www.linkedin.com/feed/'><img style={{width:'30px',height:'30px'}} src='https://cdn-icons-png.flaticon.com/128/3536/3536505.png'></img></a>
                         <a href='https://github.com/Arulmozhivarman-S'><img style={{width:'30px',height:'30px'}} src='https://cdn-icons-png.flaticon.com/128/270/270798.png'></img></a>
                         <a href='mailto:arul150105@gmail.com'><img style={{width:'30px',height:'30px'}} src='https://cdn-icons-png.flaticon.com/128/2530/2530217.png'></img></a>
-                        <a href='https://www.instagram.com/arul__14/'><img style={{width:'30px',height:'30px'}} src='https://cdn-icons-png.flaticon.com/128/15713/15713420.png'></img></a>
+                        {/* <a href='https://www.instagram.com/arul__14/'><img style={{width:'30px',height:'30px'}} src='https://cdn-icons-png.flaticon.com/128/15713/15713420.png'></img></a> */}
                 </div>
         </div>
       <div id='skills' data-aos="fade-up" data-aos-duration="1000">
