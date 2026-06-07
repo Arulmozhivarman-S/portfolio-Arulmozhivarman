@@ -13,6 +13,7 @@ function Skills() {
                 <img src='https://cdn-icons-png.flaticon.com/128/11515/11515791.png'></img>
                 <img src='https://cdn-icons-png.flaticon.com/128/2772/2772128.png'></img>
                 <img src='https://cdn-icons-png.flaticon.com/128/733/733553.png'></img>
+                <img src='https://cdn.thenewstack.io/media/2025/03/ce8cc676-kafka-1024x683.png'></img>
           </div>
 
     </div>

@@ -52,27 +52,16 @@ function Projects() {
                     <div className="Projects-div">
                         <img
                             className="project-img"
-                            style={{
-                                marginTop: "50px",
-                                width: "300px",
-                                height: "150px"
-                            }}
                             src={pro.img}
                             alt={pro.name}
                         />
                     </div>
 
-                    <button
+                   <button
+                        className="toggle-btn"
                         onClick={() => toggleDescription(index)}
-                        style={{
-                            marginTop: "15px",
-                            padding: "8px 15px",
-                            cursor: "pointer"
-                        }}
-                    >
-                        {openIndex === index
-                            ? "Hide Description"
-                            : "Show Description"}
+                        >
+                        {openIndex === index ? "▲ Hide Description" : "▼ Show Description"}
                     </button>
 
                     {openIndex === index && (
