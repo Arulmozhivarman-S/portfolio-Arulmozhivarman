@@ -1,6 +1,5 @@
 import React from 'react'
 import "./Homepage.css"
-import { Link } from 'react-router-dom'
 import About from './About'
 import Skills from './Skills'
 import Projects from './Projects'
