@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+}
+.Skills{
+    width: 100%;
+    max-width: 720px;
+    height: auto;
+    margin: 36px auto 0;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    justify-items: center;
+    align-items: center;
+}
+.Skills img{
+    width: 60px;
+    height: 60px;
+    margin: 30px auto;
+}
+.Top-section{
+    display: flex;
+    flex-direction: row;
+    margin: 30px auto;
+    justify-content: space-between;
+    width: 80%;
+    height: auto;
+}
+@media (max-width:600px){
+
+    .Skills{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        margin: auto auto;
+    }
+    .Top-section img{
+        width: 200px;
+        height: 200px;
+    }
+
+}

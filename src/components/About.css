@@ -1,0 +1,23 @@
+.About section{
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    max-width: 760px;
+    margin: 0 auto;
+}
+.About{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.About h1{
+    font-size: clamp(28px, 5vw, 44px);
+}
+.aboutmepara{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    gap: 14px;
+}
