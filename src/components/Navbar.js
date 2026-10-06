@@ -55,7 +55,7 @@ function Navbar() {
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
-  const resumeUrl = `${process.env.PUBLIC_URL}/resume.pdf`;
+  const resumeUrl = `${process.env.PUBLIC_URL}/Backend-resume.pdf`;
 
   return (
     <>
